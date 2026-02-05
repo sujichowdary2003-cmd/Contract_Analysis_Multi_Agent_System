@@ -1,0 +1,15 @@
+# Telegram Bot (REQUIRED)
+python-telegram-bot==20.7
+
+# Core NLP & AI
+spacy==3.7.2
+nltk==3.8.1
+
+# PDF text extraction
+pdfplumber==0.10.3
+
+# Data handling
+pydantic==2.6.1
+
+# Utilities
+python-dotenv==1.0.1
